@@ -140,21 +140,21 @@ We welcome contributions from anyone! Whether you're fixing a bug, improving the
 To get started with PRD Maker locally, follow these steps:
 
 ### Frontend
-```bash
+```bash```
 git clone https://github.com/
 cd prd-maker-frontend
 npm install
 npm start
 
 ### Backend
-```bash
+```bash```
 git clone https://github.com/
 cd prd-maker-backend
 npm install
 npm start
 
 ### Machine Learning
-```bash
+```bash```
 git clone https://github.com/
 cd prd-maker-ml
 pip install -r requirements.txt
