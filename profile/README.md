@@ -72,10 +72,6 @@ Here are the main repositories for the **PRD Maker** project:
 
 🔗 [Machine Learning Repository](https://github.com/HakimIqbal/LLM-PRD-Maker)
 
-<h2>Themes Project 🌐</h2>
-<p>Food Accessibility, Agribusiness, Food Security</p>
-
-
 <h2>Tools/IDE/Library/Resources ⚙️</h2>
 <p>Our Tools, IDE, Library and Resources, based on our team's knowledge,</p>
 <table align="center">
