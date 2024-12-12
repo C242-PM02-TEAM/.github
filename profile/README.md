@@ -1,8 +1,8 @@
-# PRD Maker With LLM - GitHub Organization by BANGKIT-C242-PM02
+# PRDify - GitHub Organization by BANGKIT-C242-PM02
 
 ## 🚀 **Project Overview**
 
-**PRD Maker** is an innovative tool designed to automate the process of creating Product Requirement Documents (PRDs) by leveraging the power of Large Language Models (LLMs). This tool assists product managers and development teams in drafting PRDs with minimal manual input, offering intelligent suggestions, templates, and content generation features that ensure clear, consistent, and well-structured documentation. With PRD Maker, teams can quickly generate comprehensive PRDs that meet their needs, accelerating collaboration and enhancing productivity throughout the product development cycle.
+**PRDify** is an innovative tool designed to automate the process of creating Product Requirement Documents (PRDs) by leveraging the power of Large Language Models (LLMs). This tool assists product managers and development teams in effortlessly drafting PRDs with minimal manual input, offering intelligent suggestions, templates, and content generation features that ensure clear, consistent, and well-structured documentation. With **PRDify**, teams can quickly generate comprehensive PRDs that meet their needs, accelerating collaboration and boosting productivity throughout the product development cycle.
 
 <h2>Introduction 👋</h2>
 <p>Hi everyone! We are from C242-PM02, nice to meet you:  </p>
