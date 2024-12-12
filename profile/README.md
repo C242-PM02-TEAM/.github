@@ -1,5 +1,4 @@
 # PRD Maker With LLM - GitHub Organization by BANGKIT-C242-PM02
-<p>Our project is designed to help automate the process of creating Product Requirement Documents (PRD) using the power of Large Language Models (LLM). This tool aids product managers and teams in drafting PRDs with minimal manual input.</p>
 
 ## 🚀 **Project Overview**
 
@@ -60,6 +59,27 @@
         </tr>
       </tbody>
     </table>
+
+## 🌐 **Project Repositories**
+
+Here are the main repositories for the **PRD Maker** project:
+
+### 1. **Frontend**
+This repository contains the client-side application where users can interact with the platform, create and manage PRDs.
+
+🔗 [Frontend Repository](https://github.com/unChris666/C242-PM02/tree/7c7bd6aa22b125dd980607829a3ddf89773171fb/Frontend)
+
+### 2. **Backend**
+This repository hosts the API and server-side logic that powers the PRD Maker platform, managing user authentication, data processing, and PRD generation.
+
+🔗 [Backend Repository](https://github.com/unChris666/C242-PM02/tree/7c7bd6aa22b125dd980607829a3ddf89773171fb/Backend)
+
+### 3. **Machine Learning**
+This repository contains code for generating PRDs using the Groq LLM API with the Llama3-70b-8192 model, which produces output that recommends the structure and content of the PRD. Additionally, the repository integrates Langsmith for tracking generation results and Langchain to optimize the workflow in the PRD development process.
+
+🔗 [Machine Learning Repository](https://github.com/HakimIqbal/LLM-PRD-Maker)
+
+---
 
 <h2>Tools/IDE/Library/Resources ⚙️</h2>
 <p>Our Tools, IDE, Library and Resources, based on our team's knowledge,</p>
