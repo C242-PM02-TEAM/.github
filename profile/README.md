@@ -1,6 +1,6 @@
 # PRDify - GitHub Organization by BANGKIT-C242-PM02
 
-## 🚀 **Project Overview**
+## 🚀 **Overview**
 
 **PRDify** is an innovative tool designed to automate the process of creating Product Requirement Documents (PRDs) by leveraging the power of Large Language Models (LLMs). This tool assists product managers and development teams in effortlessly drafting PRDs with minimal manual input, offering intelligent suggestions, templates, and content generation features that ensure clear, consistent, and well-structured documentation. With **PRDify**, teams can quickly generate comprehensive PRDs that meet their needs, accelerating collaboration and boosting productivity throughout the product development cycle.
 
@@ -64,22 +64,17 @@
 
 Here are the main repositories for the **PRD Maker** project:
 
-### 1. **Frontend**
-This repository contains the client-side application where users can interact with the platform, create and manage PRDs.
+### 1. **Frontend and Backend Resource**
 
-🔗 [Frontend Repository](https://github.com/unChris666/C242-PM02/tree/7c7bd6aa22b125dd980607829a3ddf89773171fb/Frontend)
+🔗 [Frontend and Backend Repository](https://github.com/unChris666/C242-PM02)
 
-### 2. **Backend**
-This repository hosts the API and server-side logic that powers the PRD Maker platform, managing user authentication, data processing, and PRD generation.
-
-🔗 [Backend Repository](https://github.com/unChris666/C242-PM02/tree/7c7bd6aa22b125dd980607829a3ddf89773171fb/Backend)
-
-### 3. **Machine Learning**
-This repository contains code for generating PRDs using the Groq LLM API with the Llama3-70b-8192 model, which produces output that recommends the structure and content of the PRD. Additionally, the repository integrates Langsmith for tracking generation results and Langchain to optimize the workflow in the PRD development process.
+### 2. **Machine Learning Resource**
 
 🔗 [Machine Learning Repository](https://github.com/HakimIqbal/LLM-PRD-Maker)
 
----
+<h2>Themes Project 🌐</h2>
+<p>Food Accessibility, Agribusiness, Food Security</p>
+
 
 <h2>Tools/IDE/Library/Resources ⚙️</h2>
 <p>Our Tools, IDE, Library and Resources, based on our team's knowledge,</p>
@@ -159,26 +154,18 @@ We welcome contributions from anyone! Whether you're fixing a bug, improving the
 
 To get started with PRD Maker locally, follow these steps:
 
-### Frontend
+### Frontend and Backend
 ```bash
-git clone https://github.com/
-cd prd-maker-frontend
+git clone https://github.com/unChris666/C242-PM02.git
+cd C242-PM02
 npm install
-npm start
-```
-
-### Backend
-```bash
-git clone https://github.com/
-cd prd-maker-backend
-npm install
-npm start
+npm run dev
 ```
 
 ### Machine Learning
 ```bash
-git clone https://github.com/
-cd prd-maker-ml
+git clone https://github.com/HakimIqbal/LLM-PRD-Maker.git
+cd LLM-PRD-Maker
 pip install -r requirements.txt
 python app.py
 ```
