@@ -70,7 +70,7 @@ Here are the main repositories for the **PRD Maker** project:
 
 ### 2. **Machine Learning Resource**
 
-🔗 [Machine Learning Repository](https://github.com/HakimIqbal/LLM-PRD-Maker)
+🔗 [Machine Learning Repository](https://github.com/C242-PM02-TEAM/ML)
 
 <h2>Tools/IDE/Library/Resources ⚙️</h2>
 <p>Our Tools, IDE, Library and Resources, based on our team's knowledge,</p>
