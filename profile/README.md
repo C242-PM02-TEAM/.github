@@ -150,10 +150,20 @@ We welcome contributions from anyone! Whether you're fixing a bug, improving the
 
 To get started with PRD Maker locally, follow these steps:
 
-### Frontend and Backend
+### Frontend
 ```bash
 git clone https://github.com/unChris666/C242-PM02.git
 cd C242-PM02
+cd Frontend
+npm install
+npm run dev
+```
+
+### Backend
+```bash
+git clone https://github.com/unChris666/C242-PM02.git
+cd C242-PM02
+cd Backend
 npm install
 npm run dev
 ```
